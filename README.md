@@ -48,5 +48,6 @@ This is a simple to-do list application built with HTML, CSS, and JavaScript. It
 - GitHub: rajkmlcodes
 
 <a href="https://www.linkedin.com/in/rajkml/" target="_blank">
-  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="LinkedIn Profile" width="150">
+  <img src="https://media.licdn.com/dms/image/D5635AQEA6H-LxRh01g/profile-framedphoto-shrink_200_200/0/1694355498433?e=1696316400&v=beta&t=U0dNHXAdfYLHcdV4iePidTig1kaksPi67gsntAkJWmw" alt="LinkedIn Profile" width="150">
+   LinkedIn
 </a>
