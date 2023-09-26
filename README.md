@@ -43,6 +43,10 @@ This is a simple to-do list application built with HTML, CSS, and JavaScript. It
 - Font by Google fonts
 
 ## Contact
-Your Name: Raj Kamal
-Email: rajkamal4241@gmail.com
-GitHub: rajkmlcodes
+- Name : Raj Kamal
+- Email: rajkamal4241@gmail.com
+- GitHub: rajkmlcodes
+
+<a href="https://www.linkedin.com/in/rajkml/" target="_blank">
+  <img src="https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png" alt="LinkedIn Profile" width="150">
+</a>
