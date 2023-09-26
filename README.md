@@ -25,27 +25,24 @@ This is a simple to-do list application built with HTML, CSS, and JavaScript. It
 
 
 
-## Navigate to the project directory:
-   ```bash
-   cd todo-list-app
+## Usage
+- Type a task in the input field.
+- Click the "Add" button or press Enter to add the task.
+- Hover over a task to reveal "Edit" and "Delete" buttons.
+- Click "Edit" to edit the task text.
+- Click "Delete" to delete the task.
+  
+## Contributing
+- Contributions are welcome! Please create a new branch and submit a pull request for any improvements or bug fixes.
 
-Open index.html in your web browser.
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
-Usage
-Type a task in the input field.
-Click the "Add" button or press Enter to add the task.
-Hover over a task to reveal "Edit" and "Delete" buttons.
-Click "Edit" to edit the task text.
-Click "Delete" to delete the task.
-Contributing
-Contributions are welcome! Please create a new branch and submit a pull request for any improvements or bug fixes.
+## Acknowledgments
+- Icons by Bootstrap Icons
+- Font by Google fonts
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Icons by FontAwesome
-Contact
-Your Name
-Email: your@email.com
-GitHub: Your GitHub Profile
+## Contact
+Your Name: Raj Kamal
+Email: rajkamal4241@gmail.com
+GitHub: rajkmlcodes
